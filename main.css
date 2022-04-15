@@ -12,18 +12,6 @@ html {
     padding: 15px 20px;
     margin-left: 20px;
     margin-right: 20px;
-    text-align: center;
-    align-items: center;
-    display: flex;
-    top: 50%;
-}
-
-div.navbar-nav {
- text-align: center;   
-        text-align: center;
-    align-items: center;
-    display: flex;
-    margin-left: 50%;
 }
 
 img {
@@ -50,8 +38,3 @@ body {
 margin: 5px;
 padding: 5px;
     }
-
-    .container-fluid {
-        justify-content: center;
-        display: flex;
-        align-items: center;
