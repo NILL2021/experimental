@@ -16,6 +16,10 @@ html {
     top: 50%
 }
 
+div.navbar-nav {
+ text-align: center;   
+}
+
 img {
     border-radius: 10px;
 .main-image {
